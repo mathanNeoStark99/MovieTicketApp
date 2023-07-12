@@ -7,6 +7,7 @@ com/cg/mts/service/IUserServiceImpl.class
 com/cg/mts/repository/UserRepository.class
 com/cg/mts/service/BookingServiceImpl.class
 com/cg/mts/pojo/Screen.class
+application.properties
 com/cg/mts/exception/TicketNotFoundException.class
 com/cg/mts/service/TheatreServiceImpl.class
 com/cg/mts/exception/ShowNotFoundException.class
